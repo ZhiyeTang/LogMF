@@ -12,7 +12,7 @@ NumPy                     1.23.1
 PyTorch                   1.10.2
 ```
 
-The codes runs well with these requirements. While the codes are simple, so I believe it will also run well with some higher or lower versions of these packages.
+The code runs well with these requirements. While the code is simple, I believe it will also run well with some higher or lower versions of these packages.
 
 **Usage**
 
