@@ -19,7 +19,7 @@ The codes runs well with these requirements. While the codes are simple, so I be
 Usage is simple, just run:
 
 ```
-$ python entry.py
+python entry.py
 ```
 
 then everything goes well.
